@@ -1,3 +1,76 @@
-* {
-  background-color: red;
+/* 
+  Add basic dimensions and styling for side menu, positioned offscreen by default 
+  @author Ethan
+*/
+#side-menu {
+  position: fixed;
+  right: -300px;
+  top: 0;
+  background-color: #f0f0f0;
+  border-left: 2px solid #ccc;
+  height: 100%;
+  width: 30%;
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
+}
+
+/* 
+    Font size for all elements within the side menu is set to constant size 
+    @author Ethan
+  */
+#side-menu * {
+  font-size: 0.75rem;
+}
+
+/* 
+    Opens the side menu by sliding it into view from the right edge of the screen when the 'open' class is applied 
+    @author Ethan
+  */
+#side-menu.open {
+  right: 0;
+}
+
+/* 
+    Adds basic styling to the content inside the side menu container for readability 
+    @author Ethan
+  */
+#side-menu-content {
+  padding: 1rem;
+  color: #333;
+}
+
+/* 
+    Styles the "close menu" button within the side menu, making it a clickable button
+    @author Ethan
+  */
+#close-menu {
+  display: block;
+  margin: 10px;
+  padding: 5px 2px;
+  width: 100px;
+  text-align: center;
+  background-color: #ff5c5c;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+/* 
+    Changes the background color of the "close menu" button when hovered over
+    @author Ethan
+  */
+#close-menu:hover {
+  background-color: #ff2200;
+}
+
+/* 
+    Styles each footnote item within the side menu
+    @author Ethan
+  */
+.footnote-item {
+  margin-bottom: 15px;
+  padding: 5px;
+  background-color: #f9f9f9;
+  border-left: 4px solid #333;
 }
