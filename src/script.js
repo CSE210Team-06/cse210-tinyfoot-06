@@ -128,6 +128,7 @@ function processFnIds() {
   // Iterate over all the footnotes and process them
   for (let i = 0; i < allFootnotes.length; i++) {
     const id = "#" + $(allFootnotes[i]).attr("id"); // add '#' so the id works with jQuery selectors
+    //TODO: look at this, possible cause of the open sidebar bug
     openFootnote(id);
     createFootnoteLink(id);
 

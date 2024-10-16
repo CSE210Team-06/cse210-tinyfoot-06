@@ -1,3 +1,21 @@
+/* The animation code for menu slide in */
+@keyframes menuSlideIn {
+  from {
+    right: -300px;
+  }
+  to {
+    right: 0;
+  }
+}
+
+:root {
+  --text-color: #333;
+  --std-font-size: 0.75rem;
+  --side-bg: #f0f0f0;
+  --side-border-left: #ccc;
+  --box-shadow: rgba(0, 0, 0, 0.2);
+}
+
 /* 
   Add basic dimensions and styling for side menu, positioned offscreen by default 
   @author Ethan
@@ -6,11 +24,11 @@
   position: fixed;
   right: -300px;
   top: 0;
-  background-color: #f0f0f0;
+  background-color: var(--side-bg);
   border-left: 2px solid #ccc;
   height: 100%;
   width: 30%;
-  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
+  box-shadow: -2px 0 5px var(--box-shadow);
 }
 
 /* 
@@ -18,7 +36,7 @@
     @author Ethan
   */
 #side-menu * {
-  font-size: 0.75rem;
+  font-size: var(--std-font-size);
 }
 
 /* 
@@ -26,7 +44,7 @@
     @author Ethan
   */
 #side-menu.open {
-  right: 0;
+  animation: menuSlideIn 0.5s forwards;
 }
 
 /* 
@@ -35,7 +53,7 @@
   */
 #side-menu-content {
   padding: 1rem;
-  color: #333;
+  color: var(--text-color);
 }
 
 /* 
@@ -72,5 +90,5 @@
   margin-bottom: 15px;
   padding: 5px;
   background-color: #f9f9f9;
-  border-left: 4px solid #333;
+  border-left: 4px solid var(--text-color);
 }
