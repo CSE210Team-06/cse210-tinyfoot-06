@@ -18,5 +18,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }} # GitHub token for permissions
           publish_dir: ./ # The directory to deploy (use "." for the root or specify a subdirectory)
-          publish_branch: main # Branch to deploy to (default is `gh-pages`)
+          publish_branch: gh-pages # Branch to deploy to (default is `gh-pages`)
           destination_dir: tinyfoot-demo # The subdirectory on the GitHub Pages site
