@@ -6,7 +6,7 @@ Stephen Taylor
 3. Next pull request should follow guidlines outlined in `pull_request_template.md`
 4. Include date created and modified in files
 ## Code Improvements
-None, maybe add additional features later if time allows
+Functions should return something, even it's just an error code. For easier testing.
 ## Testing procedure
 Followed #6 and deployed application
 ## Screenshots/videos 
