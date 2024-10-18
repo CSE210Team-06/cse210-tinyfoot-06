@@ -17,6 +17,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }} # GitHub token for permissions
-          publish_dir: ./ # The directory to deploy (use "." for the root or specify a subdirectory)
+          publish_dir: ./src # The directory to deploy (use "." for the root or specify a subdirectory)
           publish_branch: gh-pages # Branch to deploy to (default is `gh-pages`)
           destination_dir: tinyfoot-demo # The subdirectory on the GitHub Pages site
