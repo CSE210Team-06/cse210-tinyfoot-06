@@ -10,6 +10,7 @@ This project implements a webpage with an article containing footnotes that dyna
 ### How to Run the Project
 
 To view the webpage, you can open the `index.html` file in your browser using an IDE with Live Server extension or directly. If you're using an IDE, make sure to install the Live Server extension, then simply right-click on the `index.html` file and select "Open with Live Server." Alternatively, you can navigate to the `src` folder of the project and double-click the `index.html` file to open it directly in your browser. No additional setup or tools are required—just a web browser or an IDE with Live Server.
+
 ![How to Run the Project](assets/Working.gif)
 ---
 ### 1. `index.html`
