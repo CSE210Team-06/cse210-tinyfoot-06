@@ -45,6 +45,10 @@ Went Well: Everyone made themselves availble when you needed them
 
 Needs Improvement:Would prefer to see more in-person meetings
 
+Strengths: During the BigFoot project, I was able to effectively work with the library, which gave me a significant boost in confidence, especially considering my lack of a web development background. I also communicated well with my teammates, reaching out for help when needed, which contributed to our overall progress.
+
+Weaknesses: I felt that my limited knowledge of multiple coding languages hindered my ability to contribute as fully as I would have liked.
+
 **U Lam Lou**
 
 Went Well: Teammates were helpful about explaining technical details
