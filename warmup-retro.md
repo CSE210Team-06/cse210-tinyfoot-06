@@ -47,6 +47,11 @@ Went Well: Teammates were helpful about explaining technical details
 
 Needs Improvement:More fixed times for meetings instead of floating meetings scheduled last minute
 
+Strengths: I am proactive in asking for help or clarification and finding online resources to understand some concepts or codes (for example, CSS and some Javascript code in this assignment) when I am confused or have no prior knowledge of that coding language. I am also good at designing webpages when using CSS.
+
+Weaknesses: My limited programming background currently makes it harder for me to contribute to my team at the level I’d like, which makes me less efficient than my teammates.
+-How to improve: Follow more practices in Leetcode and try to read resources that can help build a more solid foundation in SE.
+
 **Shushanth**
 
 Went Well:
