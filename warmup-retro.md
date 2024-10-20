@@ -75,9 +75,14 @@ Actual developmental practisces need to be improved. the ability to delievr code
 
 **Vedant**
 
-Went Well:
+Went Well: Everyone did their part correctly and all team members were helpful.
 
-Needs Improvement:
+Needs Improvement: Would prefer to have more in-person meetings and learn from each other.
+
+Strengths: Completed my part in the project on time and learnt several things like GitHub issues and CI/CD pipelines which I hadn't worked with earlier.
+
+Weaknesses: I would like to be more actively involved in team meetings.
+
 
 ## Plan to improve
 
