@@ -56,11 +56,15 @@ Strengths: I am proactive in asking for help or clarification and finding online
 Weaknesses: My limited programming background currently makes it harder for me to contribute to my team at the level I’d like, which makes me less efficient than my teammates.
 -How to improve: Follow more practices in Leetcode and try to read resources that can help build a more solid foundation in SE.
 
-**Shushanth**
+**Sushaanth Srinivasan**
 
-Went Well:
+Went Well: Everyone on the team was enthusiastic and enterprising. No one had to be reminded to do their part, and everyone was very proactive.
 
-Needs Improvement:
+Needs Improvement: Need to have some more online/offline cross sub-team meetings to discuss about each others' work and learn in the process.
+
+Strengths: First time managing a large team, learnt a lot about how our team works in this process. Learnt to create CI/CD pipelines as I only knew the concept before. Also due to merging so many branches with many changes, I am now quite comfortable with merging and resolving merge conflicts.
+
+Weaknesses: Felt like I was not able to implement quality code due to the complexities involved and the project time frame.
 
 **Nishant**
 
