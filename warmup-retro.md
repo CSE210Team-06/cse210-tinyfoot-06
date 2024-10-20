@@ -35,6 +35,10 @@ Went Well: Everyone volunteered, no one had to be delegated anything
 
 Needs Improvement:Should have been more collaboration between teams, should have been more reguler check-ins across teams
 
+Strengths: I actively participated in all team tasks and excelled at finding solutions to both technical and managerial challenges that our team encountered.
+
+Weaknesses: I sometimes struggled with punctuality for meetings and was occasionally slow in communicating with my team members.
+
 **Gagan Mundada**
 
 Went Well: Everyone made themselves availble when you needed them
