@@ -14,6 +14,10 @@ Went Well: Everyone was pretty responsive, and on top of messages
 
 Needs Improvement:Get closer as a team, more in-person stuff
 
+Strengths: I was good at responding to messages and being available. I was also able to help out others when needed. 
+
+Weaknesses: I could use more technical knowledge. I could also be more proactive about keeping up with other teams as I wasn't knowledgable about what they were doing.
+
 **Ethan Lee**
 
 Went Well: We had a well-planned schedule, and stuck with it
