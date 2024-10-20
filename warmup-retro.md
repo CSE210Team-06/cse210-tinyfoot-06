@@ -68,9 +68,10 @@ Weaknesses: Felt like I was not able to implement quality code due to the comple
 
 **Nishant**
 
-Went Well:
+Went Well: I think the co-ordination and delegation of work between different team mebers was excellent. I did feel that we really wqorked as a team to get the job done.
 
 Needs Improvement:
+Actual developmental practisces need to be improved. the ability to delievr code of the utmost quality under restictred time limites is a skll we have to master and we will endeavor to do it in this course.
 
 **Vedant**
 
