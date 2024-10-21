@@ -1,5 +1,9 @@
 # Code Review
 
+## Demo URL
+
+https://cse210team-06.github.io/cse210-tinyfoot-06/demo/
+
 ## Project Overview
 
 This project implements a webpage with an article containing footnotes that dynamically display in a side menu when clicked. The project consists of the following files:
