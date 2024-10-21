@@ -1,0 +1,77 @@
+Team 06: Sin Nombre -  Meeting Agenda
+Date: 14 Oct 2024
+Time: 9 - 10:30 AM
+Location: google meet
+Attendees: [Insert List of Attendees]
+
+
+Date: 11 Oct 2024
+Time: 9 - 10 AM
+Location: Nuevo East Exchange
+Attendees: [Insert List of Attendees]
+1. Introduction and Overview
+Welcome and meeting objectives.
+Quick review of the agenda.
+2. Discussion on Tinyfoot Implementation
+Key Decision: Forking from bigfoot/littlefoot or starting fresh.
+Pros and cons of each approach.
+Action items for choosing the path forward.
+3. Code Review and Documentation Plan
+Bigfoot/Littlefoot: Code review by two individual teams.
+Tinyfoot: Whole team involvement in code review and documentation.
+Alternative proposal: Three teams working individually on all three projects.
+Finalizing the approach based on resource availability and expertise.
+4. Team Division and Role Assignment
+Dividing into subteams based on members' strengths and weaknesses.
+Clarifying roles and responsibilities within subteams.
+Ensuring balanced workload distribution and skill utilization.
+5. Timeline and Deadlines
+Proposed timeline:
+1st and 2nd tasks: Completion by Sunday.
+3rd task: Completion by Thursday.
+Adjustments or agreement on deadlines.
+Accountability and check-ins.
+
+6. Deciding Documentation Format
+Markdown vs Word:
+Markdown for ease of pushing to GitHub.
+Word in case members are not comfortable with markdown.
+Final decision on format for the project documentation.
+7. Questions and Final Comments
+Open floor for questions, clarifications, or additional inputs.
+Next steps and follow-up meeting scheduling.
+Next Meeting: [Insert Date/Time]
+
+
+Meet 1 review:
+Team Distribution:
+We are planning two teams for the two libraries.
+
+BigFoot (JQuery):
+Sahil - sahil139
+Vincent: vthai321
+Gagan -  GaganVM
+Steve - stevegtaylor
+U Lam- uloulou
+
+LittleFoot(TypeScript):
+Sushant - SushaanthSrinivasan
+Vedant - vedantd41
+Nishant: nishant42491
+Nick: nrchua
+Ethan: (github EthanLDot)
+
+`
+Code review template:
+https://swimm.io/learn/code-reviews/ultimate-10-step-code-review-checklist
+
+Action Items:
+1> Ask cora about how to submit the demo. What is the demo?? Hosting vs ss.- Sushant - done
+2> Create a virtual meet for monday.- sahil
+3> github orgs,- sushant - created, waiting for nishant and ulam github ids
+4> create your reports by sun - all teams
+5> google calendar: sushant - check the time on when is good - will do once everyone fills their times
+6> Create sub channels for your respective teams - done.
+7> Mattermost vs Discord ask Cora: Sushant - done
+8> Ask Cora about the review page limit.- done
+9> create a meet for littlefoot team on sunday morning 11:20-11:50: sushant. - done

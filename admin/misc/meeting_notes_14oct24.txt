@@ -1,0 +1,29 @@
+Meeting Notes 10/14:
+
+Finish markdown files, keep length to 5 pages or under
+Create 3 repositories for Bigfoot, Littlefoot, Tinyfoot respectively
+Bigfoot is lightweight library, works mainly via jQuery and Grunt
+Littlefoot doesn't use jQuery, uses typescript instead of coffeescript (file mainly used for settings), dom folder contains many ts files for different tasks and components. Lots more dependencies.
+Start Tinyfoot a. Start creating repo with starting files and folders b. Everybody should clone their own version, create dev branch, use pull requests/issues to develop and assign issues c. Go for simpler approach using jQuery to add a side panel. 1 team can create, 1 can style, 1 can document, 1 can integrate tests. Teams of 2 each.
+
+
+Implementation:
+Sahil
+Vincent
+
+Styling (CSS):
+Ethan L.
+U Lam
+
+Testing (e2e):
+Steve
+Vincent
+
+CI/CD (github actions):
+Sushaanth
+Nishant
+Ethan L. (shadow only)
+
+Docs:
+Gagan
+Vedant
