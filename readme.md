@@ -70,4 +70,7 @@ The CSS file defines the styles for the webpage, with an emphasis on the side me
 - **Responsive Design**: The CSS includes considerations for different screen sizes, particularly in how the side menu is handled and positioned.
 - **Hover Effects**: The hover effects for the footnote links and the "TinyFoot" heading add interactivity and engagement for users.
 
+**Note:**
+In our case, the dist and demo folder are the same because we implemented the footnote library using vanilla JS and jQuery.
+
 ---
