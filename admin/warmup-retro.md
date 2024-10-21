@@ -91,10 +91,13 @@ Weaknesses: I would like to be more actively involved in team meetings.
 
 ## Plan to improve
 
+Do a full assigment read-through in-person as a team. Do the submission prep as a team.
+
 Need to settle on a regular in-person meeting time.
--Thursdays after class. First meeting at Mission Brewery
--First meeting will be hammering out details of code development process
--How and when code reivews are done
--Syntax conventions
--How sub-teams update each other
--etc.
+
+- Thursdays after class. First meeting at Mission Brewery
+- First meeting will be hammering out details of code development process
+- How and when code reivews are done
+- Syntax conventions
+- How sub-teams update each other
+- etc.
