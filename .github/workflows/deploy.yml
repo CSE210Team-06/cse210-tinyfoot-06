@@ -15,11 +15,18 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
+      - name: Create combined directory
+        run: |
+          mkdir -p ./deploy/demo
+          mkdir -p ./deploy/src
+          cp -R ./demo/* ./deploy/demo
+          cp -R ./another-directory/* ./deploy/src
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           # github_token: ${{ secrets.GITHUB_TOKEN }} # GitHub token for permissions
           github_token: ${{ secrets.PAT }}
-          publish_dir: ./demo # The directory to deploy (use "." for the root or specify a subdirectory)
+          publish_dir: ./deploy # The directory to deploy (use "." for the root or specify a subdirectory)
           publish_branch: gh-pages # Branch to deploy to (default is `gh-pages`)
-          destination_dir: tinyfoot-demo # The subdirectory on the GitHub Pages site
+          # destination_dir: tinyfoot-demo # The subdirectory on the GitHub Pages site
