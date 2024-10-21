@@ -20,7 +20,7 @@ jobs:
           mkdir -p ./deploy/demo
           mkdir -p ./deploy/src
           cp -R ./demo/* ./deploy/demo
-          cp -R ./another-directory/* ./deploy/src
+          cp -R ./src/* ./deploy/src
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
