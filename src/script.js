@@ -153,7 +153,7 @@ function createFootnoteLink(id) {
 // The eqivalent to calling main
 $(document).ready(function () {
   //inject a stylesheet into the document
-  injectCSSFile("styles.css");
+  injectCSSFile("../src/styles.css");
   // call the function to process footnotes
   processFnIds();
 
