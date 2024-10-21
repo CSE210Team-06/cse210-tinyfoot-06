@@ -1,3 +1,5 @@
+# Warmup Retrospective
+
 **Stephen Taylor**
 
 Went Well: really appreciated how other team members made themselves avaible to help
@@ -86,7 +88,6 @@ Needs Improvement: Would prefer to have more in-person meetings and learn from e
 Strengths: Completed my part in the project on time and learnt several things like GitHub issues and CI/CD pipelines which I hadn't worked with earlier.
 
 Weaknesses: I would like to be more actively involved in team meetings.
-
 
 ## Plan to improve
 
